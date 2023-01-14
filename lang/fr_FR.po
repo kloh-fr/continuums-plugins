@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Continuums Plugins\n"
+"POT-Creation-Date: 2014-04-29 14:18+0100\n"
+"PO-Revision-Date: 2014-04-29 14:18+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: G:\\02_sites\\03_ma3yt\\continuums\\wp-content"
+"\\plugins\\continuums-plugins\n"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:103
+msgid "Blog"
+msgstr "Blog"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:128
+msgid "Partenaires"
+msgstr "Partenaires"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:129
+msgid "Partenaire"
+msgstr "Partenaire"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:130
+msgid "Ajouter un nouveau partenaire"
+msgstr "Ajouter un nouveau partenaire"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:131
+msgid "Nouveau partenaire"
+msgstr "Nouveau partenaire"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:132
+msgid "Éditer un partenaire"
+msgstr "Éditer un partenaire"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:133
+msgid "Voir le partenaire"
+msgstr "Voir le partenaire"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:134
+msgid "Tous les partenaires"
+msgstr "Tous les partenaires"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:135
+msgid "Chercher des partenaires"
+msgstr "Chercher des partenaires"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:136
+msgid "Pas de partenaire trouvé."
+msgstr "Pas de partenaire trouvé."
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:137
+msgid "Pas de partenaire trouvé dans la corbeille."
+msgstr "Pas de partenaire trouvé dans la corbeille."
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:236
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:238
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:240
+msgid "Article rédigé par"
+msgstr "Article rédigé par"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:236
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:238
+msgid "dans"
+msgstr "dans"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:236
+msgid "Mots-clés&nbsp;:"
+msgstr "Mots-clés&nbsp;:"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:245
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:247
+msgid "Publié le"
+msgstr "Publié le"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:245
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:247
+msgid "j F Y"
+msgstr "j F Y"
+
+#: G:\02_sites\03_ma3yt\continuums\wp-content\plugins\continuums-plugins/continuums-plugins.php:245
+msgid "modifié le"
+msgstr "modifié le"
+
+#~ msgid "Vidéos"
+#~ msgstr "Vidéos"
+
+#~ msgid "Vidéo"
+#~ msgstr "Vidéo"
+
+#~ msgid "Ajouter une nouvelle vidéo"
+#~ msgstr "Ajouter une nouvelle vidéo"
+
+#~ msgid "Nouvelle vidéo"
+#~ msgstr "Nouvelle vidéo"
+
+#~ msgid "Éditer une vidéo"
+#~ msgstr "Éditer une vidéo"
+
+#~ msgid "Voir la vidéo"
+#~ msgstr "Voir la vidéo"
+
+#~ msgid "Toutes les vidéos"
+#~ msgstr "Toutes les vidéos"
+
+#~ msgid "Chercher des vidéos"
+#~ msgstr "Chercher des vidéos"
+
+#~ msgid "Pas de vidéo trouvée."
+#~ msgstr "Pas de vidéo trouvée."
+
+#~ msgid "Pas de vidéo trouvée dans la corbeille."
+#~ msgstr "Pas de vidéo trouvée dans la corbeille."
+
+#~ msgid "Sons"
+#~ msgstr "Sons"
+
+#~ msgid "Son"
+#~ msgstr "Son"
+
+#~ msgid "Ajouter un nouveau son"
+#~ msgstr "Ajouter un nouveau son"
+
+#~ msgid "Nouveau son"
+#~ msgstr "Nouveau son"
+
+#~ msgid "Éditer un son"
+#~ msgstr "Éditer un son"
+
+#~ msgid "Voir le son"
+#~ msgstr "Voir le son"
+
+#~ msgid "Tous les sons"
+#~ msgstr "Tous les sons"
+
+#~ msgid "Chercher des sons"
+#~ msgstr "Chercher des sons"
+
+#~ msgid "Pas de son trouvé."
+#~ msgstr "Pas de son trouvé."
+
+#~ msgid "Pas de son trouvé dans la corbeille."
+#~ msgstr "Pas de son trouvé dans la corbeille."
+
+#~ msgid "Français"
+#~ msgstr "Français"
+
+#~ msgid "No video playback capabilities"
+#~ msgstr "Votre navigateur ne prend pas en charge les vidéos"
+
+#~ msgid "Entry written by"
+#~ msgstr "Article rédigé par"
+
+#~ msgid "in"
+#~ msgstr "dans"
+
+#~ msgid "Tags:"
+#~ msgstr "Mots-clés :"
+
+#~ msgid "Published on"
+#~ msgstr "Publié le"
+
+#~ msgid "Last modified on"
+#~ msgstr "Modifié le"
